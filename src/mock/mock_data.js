@@ -7,11 +7,11 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1774601326477",
-          "name": "猫猫绘图",
-          "url": "https://fast.catsapi.com",
-          "description": "文生图，图生图，文生视频站点",
-          "icon": "https://www.faviconextractor.com/favicon/fast.catsapi.com"
+          "id": "site-1778929068955",
+          "name": "猫图 AI",
+          "url": "https://catsapi.com",
+          "description": "AI 生图网站，Image2 3 分/张,每日有免费额度，",
+          "icon": "https://www.faviconextractor.com/favicon/catsapi.com"
         },
         {
           "id": "site-1752649007053",
@@ -47,13 +47,6 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "site-1778929068955",
-          "name": "猫图 AI",
-          "url": "https://catsapi.com",
-          "description": "AI 生图网站，每日有免费额度，Image2 3 分/张",
-          "icon": "https://www.faviconextractor.com/favicon/catsapi.com"
         }
       ]
     },
