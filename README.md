@@ -69,6 +69,8 @@ git merge upstream/master
 
 ## 🚀 快速开始
 图文教程可访问[猫猫导航图文教程](https://blog.maodeyu.fun/2025/07/16/nav_mao/)
+
+> 💬 **部署遇到问题？** 欢迎加入 QQ 交流群：**494775899**，群里有热心小伙伴一起帮你排查问题。
 ### 🚀 部署到 Cloudflare（推荐）
 
 **1. Fork 本项目**
@@ -355,6 +357,7 @@ npm run build && npx wrangler pages dev dist
 
 - 提交 [Issue](https://github.com/your-username/mao_nav/issues)
 - 发起 [Discussion](https://github.com/your-username/mao_nav/discussions)
+- 加入 QQ 交流群：**494775899**（部署问题求助 / 使用交流）
 
 ---
 
